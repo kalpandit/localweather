@@ -10,12 +10,21 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.2",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "lottie-react-native": "5.0.1",
+    "postcss": "^8.4.5",
+    "prop-types": "^15.8.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-google-places-autocomplete": "^2.4.1",
+    "react-native-modal": "^13.0.0",
+    "react-native-parallax-scroll-view": "^0.21.3",
+    "react-native-sticky-parallax-header": "^0.4.1",
+    "react-native-web": "0.17.1",
+    "tailwind-react-native-classnames": "^1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
