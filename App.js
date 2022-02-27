@@ -71,7 +71,7 @@ export default class App extends Component {
         
       }}
       query={{
-        key: 'AIzaSyDAq7gSWIC9vhgkH_Q459I2XbAb-6WIlVU',
+        key: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
         types: '(regions)',
         language: 'en',
         //components: 'country:us',
